@@ -1,0 +1,28 @@
+.btn-primary a {
+    color: white;
+}
+
+textarea {
+    resize: none;
+    height: 200px;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../image/toggler-icon.png) !important;
+    padding: 15px;
+}
+
+tbody img {
+    margin-top: 5px;
+    width: 150px;
+}
+
+.btn-danger a {
+    color: white;
+}
+
+/* Pelamar */   
+.pel1 {
+    color: white;
+    border-radius: 5px;
+}
